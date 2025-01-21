@@ -11,7 +11,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
 <a href="mailto:merve.ozdemir1441@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Font_Awesome_5_regular_envelope.svg" alt="email" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/new-post.png" alt="email" width="40" height="40"/>
+</a>
+
+
+
+
 </a>
 
 - ## Languages and Tools
