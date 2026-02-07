@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Merve  
 
-- 🎓 **I am a 3rd-year Computer Engineering student at Kocaeli University.**  
+- 🎓 **I am a 4rd-year Computer Engineering student at Kocaeli University.**  
 - 💻 **My interests include:** Frontend/Mobile App Development and Database Management.  
 - 🌱 **Currently learning:** Full-stack development.
 - 📚 **Certifications:** Artificial Intelligence, Database Management.  
