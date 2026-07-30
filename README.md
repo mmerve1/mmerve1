@@ -1,9 +1,8 @@
 # Hi there! 👋 I'm Merve Özdemir  
-### ⚡ Full-Stack & Backend Engineer | Project Assistant @ KoçDigital
+### ⚡ Backend Engineer | Project Assistant @ KoçDigital
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_App-00f2fe?style=for-the-badge&logo=react)](https://mmerve1.github.io/portfolio/)
+(https://mmerve1.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Merve_Özdemir-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meerveozdemir/)
-[![GitHub](https://img.shields.io/badge/GitHub-mmerve1-181717?style=for-the-badge&logo=github)](https://github.com/mmerve1)
 [![Email](https://img.shields.io/badge/Email-merve.ozdemir1441%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:merve.ozdemir1441@gmail.com)
 
 ---
@@ -16,7 +15,7 @@
 
 ## 📌 About Me / Hakkımda
 
-- 🎓 **Education:** Computer Engineering student at **Kocaeli University** *(GPA: 3.40 / 4.00)* & **42 Kocaeli** Open Algorithm Program Alumni.
+- 🎓 **Education:** Computer Engineering student at **Kocaeli University** *(GPA: 3.40 / 4.00).
 - 💼 **Current Role:** Project Assistant @ **KoçDigital** — Building C# (.NET Core) and Node.js microservices, real-time IoT telemetry pipelines, and React/Vue.js frontend features for Platform360 IoT.
 - 🛡️ **Defence Industry Experience:** Former Software Engineering Intern @ **SDT Space & Defence Technologies** — Containerized Keycloak OAuth2/JWT authentication servers (Docker) and Java Spring Boot microservices.
 - 🧠 **Research & Mobile:** Built real-time EEG brainwave signal processing mobile applications using Kotlin & Flutter at KOU HCI Lab.
@@ -111,4 +110,3 @@
 </p>
 
 ---
-© 2026 Merve Özdemir. All rights reserved.
