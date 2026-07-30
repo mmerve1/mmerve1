@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Merve Özdemir  
 ### ⚡ Backend Engineer | Project Assistant @ KoçDigital
 
-(https://mmerve1.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Merve_Özdemir-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meerveozdemir/)
 [![Email](https://img.shields.io/badge/Email-merve.ozdemir1441%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:merve.ozdemir1441@gmail.com)
 
